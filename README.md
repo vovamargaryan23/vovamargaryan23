@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 ![Header](https://user-images.githubusercontent.com/65363410/197331381-ec94180f-b2bb-4bd0-9ed5-5d1b3b8bda6e.png)
 
-<h1 align="center">Hi 👋, I'm Vladimir</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vovamargaryan23" alt="vovamargaryan23" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
