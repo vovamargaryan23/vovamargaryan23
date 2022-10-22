@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![github-header-image](https://user-images.githubusercontent.com/65363410/197331346-13c29dbe-e124-41ff-82a3-83fad0abe88d.png)
+![Header](https://user-images.githubusercontent.com/65363410/197331381-ec94180f-b2bb-4bd0-9ed5-5d1b3b8bda6e.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovamargaryan23&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
