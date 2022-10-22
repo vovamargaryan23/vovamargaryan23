@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ![Header](https://user-images.githubusercontent.com/65363410/197331381-ec94180f-b2bb-4bd0-9ed5-5d1b3b8bda6e.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovamargaryan23&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovamargaryan23&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
